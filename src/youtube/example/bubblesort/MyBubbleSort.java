@@ -7,7 +7,7 @@
 package youtube.example.bubblesort;
 
 import java.util.Arrays;
-//sorting an integer array
+//sorting an integer array, in ascending order
 public class MyBubbleSort {
     public void bubbleSort(int[] arr){
         for (int i = 0; i < arr.length; i++) {
